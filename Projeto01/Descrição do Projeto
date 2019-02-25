@@ -1,0 +1,3 @@
+Um servlet que responda por "home" com uma apresentação da equipe e da aplicação e links para os seguintes recursos:
+  Um servlet que responda por "juros-simples" e apresente um form com entrada de dados para o calculo de juros simples
+  Um servlet que responda por "juros-compostos" e apresente um form com entrada de dados para o calculo de juros compostos
